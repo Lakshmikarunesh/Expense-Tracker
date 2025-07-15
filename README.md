@@ -84,6 +84,13 @@ src/
 
 ## Key Features Explained
 
+
+## 🌐 API Usage Summary:
+
+Network Information API	: Detect network status to trigger sync or defer it
+Canvas API	: Render budget and spending visuals
+Background Tasks API	: Auto-sync data and send alerts in background
+
 ### Offline-First Architecture
 - All data stored locally in IndexedDB
 - Network Information API for connection detection
